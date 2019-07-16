@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=UserMenu
+comment1.params=login_username
+comment1.target=void\ UserMenu(java.lang.String)
+comment10.params=UsersList
+comment10.target=java.util.ArrayList\ AddFriend(java.util.ArrayList)
+comment11.params=Friends\ Request\ login_username
+comment11.target=void\ Send_Friend_Request(java.util.ArrayList,\ java.util.ArrayList,\ java.lang.String)
+comment12.params=Request\ Friends
+comment12.target=java.util.ArrayList\ AcceptOrReject(java.util.ArrayList,\ java.util.ArrayList)
+comment2.params=Friends\ Wall\ login_username
+comment2.target=void\ See_friends_wall(java.util.ArrayList,\ java.util.ArrayList,\ java.lang.String)
+comment3.params=Wall\ friend_name\ login_username
+comment3.target=java.util.ArrayList\ Post_Message(java.util.ArrayList,\ java.lang.String,\ java.lang.String)
+comment4.params=Friendslist
+comment4.target=boolean\ CheckFriend(java.util.ArrayList)
+comment5.params=Wall\ username
+comment5.target=void\ DisplayWall(java.util.ArrayList,\ java.lang.String)
+comment6.params=
+comment6.target=java.util.ArrayList\ ArrayList_return()
+comment7.params=UsersList
+comment7.target=void\ UsersDisplay(java.util.ArrayList)
+comment8.params=FriendsList
+comment8.target=void\ FriendsDisplay(java.util.ArrayList)
+comment9.params=UsersList
+comment9.target=java.util.ArrayList\ DeleteFriend(java.util.ArrayList)
+numComments=13

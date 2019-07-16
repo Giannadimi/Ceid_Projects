@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Request
+comment1.params=pers1\ pers2
+comment1.target=Request(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getPers1()
+comment3.params=pers1
+comment3.target=void\ setPers1(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getPers2()
+comment5.params=pers2
+comment5.target=void\ setPers2(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Wall
+comment1.params=username\ Messages
+comment1.target=Wall(java.lang.String,\ java.util.ArrayList)
+comment2.params=username
+comment2.target=void\ setUsername(java.lang.String)
+comment3.params=Messages
+comment3.target=void\ setMessages(java.util.ArrayList)
+comment4.params=
+comment4.target=java.lang.String\ getUsername()
+comment5.params=
+comment5.target=java.util.ArrayList\ getMessages()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Friends
+comment1.params=person1\ person2
+comment1.target=Friends(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getPerson1()
+comment3.params=person1
+comment3.target=void\ setPerson(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getPerson2()
+comment5.params=person2
+comment5.target=void\ setPerson2(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
