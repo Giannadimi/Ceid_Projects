@@ -1,4 +1,4 @@
-package jbr.springmvc.model;
+package webproject.model;
 public class Login {
   private String username;
   private String password;
