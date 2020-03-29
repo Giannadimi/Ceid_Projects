@@ -16,10 +16,10 @@ public class UserDaoImpl implements UserDao {
   JdbcTemplate jdbcTemplate;
   private Login login;
 
-  public void register(User user) {
+  public int register(User user) {
     String sql = "insert into user values(?,?,?,?,?)";
     jdbcTemplate.update(sql, new Object[] { user.getUsername(), user.getPassword(), user.getFirstname(),
-    user.getLastname(), user.getEmail(), user.getAddress(), user.getPhone() });
+    user.getLastname(), user.getEmail() });
     }
     public User validateUser(Login login) {
       this.login = login;
