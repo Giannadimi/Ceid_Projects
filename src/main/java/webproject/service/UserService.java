@@ -6,7 +6,7 @@ import webproject.model.User;
 @Service
 public interface UserService {
 
-    int register(User user);
+	int register(User user);
 
-    User validateUser(Login login);
+	User validateUser(Login login);
 }

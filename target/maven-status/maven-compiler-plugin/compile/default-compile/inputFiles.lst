@@ -1,7 +1,8 @@
-C:\Users\user\IdeaProjects\Ceid_Projects\Web\src\main\java\webproject\model\Login.java
-C:\Users\user\IdeaProjects\Ceid_Projects\Web\src\main\java\webproject\controllers\LoginController.java
-C:\Users\user\IdeaProjects\Ceid_Projects\Web\src\main\java\webproject\controllers\SignUpController.java
-C:\Users\user\IdeaProjects\Ceid_Projects\Web\src\main\java\webproject\dao\UserDaoImpl.java
-C:\Users\user\IdeaProjects\Ceid_Projects\Web\src\main\java\webproject\model\User.java
-C:\Users\user\IdeaProjects\Ceid_Projects\Web\src\main\java\webproject\dao\UserDao.java
-C:\Users\user\IdeaProjects\Ceid_Projects\Web\src\main\java\webproject\service\UserServiceImp.java
+C:\Users\tkaraisku\eclipse-workspace\Ceid_Projects\src\main\java\webproject\dao\UserDaoImpl.java
+C:\Users\tkaraisku\eclipse-workspace\Ceid_Projects\src\main\java\webproject\controllers\LoginController.java
+C:\Users\tkaraisku\eclipse-workspace\Ceid_Projects\src\main\java\webproject\dao\UserDao.java
+C:\Users\tkaraisku\eclipse-workspace\Ceid_Projects\src\main\java\webproject\controllers\SignUpController.java
+C:\Users\tkaraisku\eclipse-workspace\Ceid_Projects\src\main\java\webproject\service\UserServiceImp.java
+C:\Users\tkaraisku\eclipse-workspace\Ceid_Projects\src\main\java\webproject\model\Login.java
+C:\Users\tkaraisku\eclipse-workspace\Ceid_Projects\src\main\java\webproject\model\User.java
+C:\Users\tkaraisku\eclipse-workspace\Ceid_Projects\src\main\java\webproject\service\UserService.java
