@@ -9,7 +9,7 @@
     <body>
         <table align="center">
             <tr>
-                <td><a href='login.jsp'>Login</a>
+                <td><a href='login'>Login</a>
                 </td></td>
                 <td><a href="register">Sign Up</a>
                 </td>
