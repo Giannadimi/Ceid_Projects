@@ -54,3 +54,6 @@ target/*/*/*/*/*
 .project
 .settings/
 target/
+/target/
+/.idea/
+/.settings/
