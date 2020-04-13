@@ -21,7 +21,7 @@
                             <label path="password">Password</label>
                         </td>
                         <td>
-                            <password path="password" name="password" id="password" />
+                            <input type="password" path="password" name="password" id="password" />
                         </td>
                     </tr>
                     <tr>
